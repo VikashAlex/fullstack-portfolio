@@ -1,0 +1,212 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML5",
+      "proficiency": 95,
+      "category": "Frontend",
+      "accentBg": "from-orange-500/40",
+      "accentText": "text-orange-400"
+    },
+    {
+      "id": 2,
+      "name": "CSS3",
+      "proficiency": 90,
+      "category": "Frontend",
+      "accentBg": "from-blue-500/40",
+      "accentText": "text-blue-400"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript (ES6+)",
+      "proficiency": 90,
+      "category": "Frontend",
+      "accentBg": "from-yellow-500/40",
+      "accentText": "text-yellow-400"
+    },
+    {
+      "id": 4,
+      "name": "React.js",
+      "proficiency": 90,
+      "category": "Frontend",
+      "accentBg": "from-cyan-500/40",
+      "accentText": "text-cyan-400"
+    },
+    {
+      "id": 5,
+      "name": "Next.js",
+      "proficiency": 85,
+      "category": "Frontend",
+      "accentBg": "from-gray-500/40",
+      "accentText": "text-gray-300"
+    },
+    {
+      "id": 6,
+      "name": "Tailwind CSS",
+      "proficiency": 90,
+      "category": "Frontend",
+      "accentBg": "from-sky-500/40",
+      "accentText": "text-sky-400"
+    },
+    {
+      "id": 7,
+      "name": "Bootstrap",
+      "proficiency": 85,
+      "category": "Frontend",
+      "accentBg": "from-indigo-500/40",
+      "accentText": "text-indigo-400"
+    },
+    {
+      "id": 8,
+      "name": "Node.js",
+      "proficiency": 85,
+      "category": "Backend",
+      "accentBg": "from-green-500/40",
+      "accentText": "text-green-400"
+    },
+    {
+      "id": 9,
+      "name": "Express.js",
+      "proficiency": 80,
+      "category": "Backend",
+      "accentBg": "from-emerald-500/40",
+      "accentText": "text-emerald-400"
+    },
+    {
+      "id": 10,
+      "name": "PHP",
+      "proficiency": 70,
+      "category": "Backend",
+      "accentBg": "from-purple-500/40",
+      "accentText": "text-purple-400"
+    },
+    {
+      "id": 11,
+      "name": "MongoDB",
+      "proficiency": 85,
+      "category": "Database",
+      "accentBg": "from-green-500/40",
+      "accentText": "text-green-400"
+    },
+    {
+      "id": 12,
+      "name": "MySQL",
+      "proficiency": 75,
+      "category": "Database",
+      "accentBg": "from-blue-600/40",
+      "accentText": "text-blue-300"
+    },
+    {
+      "id": 13,
+      "name": "Firebase",
+      "proficiency": 70,
+      "category": "Database",
+      "accentBg": "from-amber-500/40",
+      "accentText": "text-amber-400"
+    },
+    {
+      "id": 14,
+      "name": "Git & GitHub",
+      "proficiency": 90,
+      "category": "Tools",
+      "accentBg": "from-gray-700/40",
+      "accentText": "text-gray-400"
+    },
+    {
+      "id": 15,
+      "name": "Vercel",
+      "proficiency": 85,
+      "category": "Deployment",
+      "accentBg": "from-white/20",
+      "accentText": "text-white"
+    },
+    {
+      "id": 16,
+      "name": "Netlify",
+      "proficiency": 80,
+      "category": "Deployment",
+      "accentBg": "from-teal-500/40",
+      "accentText": "text-teal-400"
+    },
+    {
+      "id": 17,
+      "name": "CPanel Hosting",
+      "proficiency": 80,
+      "category": "Deployment",
+      "accentBg": "from-orange-600/40",
+      "accentText": "text-orange-400"
+    },
+    {
+      "id": 18,
+      "name": "React Native",
+      "proficiency": 60,
+      "category": "Mobile Development",
+      "accentBg": "from-blue-500/40",
+      "accentText": "text-blue-400"
+    },
+    {
+      "id": 19,
+      "name": "WordPress",
+      "proficiency": 90,
+      "category": "CMS",
+      "accentBg": "from-blue-400/40",
+      "accentText": "text-blue-300"
+    },
+    {
+      "id": 20,
+      "name": "Elementor",
+      "proficiency": 95,
+      "category": "CMS",
+      "accentBg": "from-pink-500/40",
+      "accentText": "text-pink-400"
+    },
+    {
+      "id": 21,
+      "name": "VS Code",
+      "proficiency": 95,
+      "category": "Tools",
+      "accentBg": "from-blue-700/40",
+      "accentText": "text-blue-500"
+    },
+    {
+      "id": 22,
+      "name": "Postman",
+      "proficiency": 85,
+      "category": "Tools",
+      "accentBg": "from-orange-500/40",
+      "accentText": "text-orange-400"
+    },
+    {
+      "id": 23,
+      "name": "Figma",
+      "proficiency": 75,
+      "category": "Tools",
+      "accentBg": "from-purple-500/40",
+      "accentText": "text-purple-400"
+    },
+    {
+      "id": 24,
+      "name": "API Integration",
+      "proficiency": 85,
+      "category": "Backend",
+      "accentBg": "from-emerald-500/40",
+      "accentText": "text-emerald-300"
+    },
+    {
+      "id": 25,
+      "name": "JWT Authentication",
+      "proficiency": 80,
+      "category": "Security",
+      "accentBg": "from-red-500/40",
+      "accentText": "text-red-400"
+    },
+    {
+      "id": 26,
+      "name": "Redux Toolkit",
+      "proficiency": 75,
+      "category": "Frontend",
+      "accentBg": "from-violet-500/40",
+      "accentText": "text-violet-400"
+    }
+  ]
+}
