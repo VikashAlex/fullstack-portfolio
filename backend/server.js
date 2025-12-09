@@ -12,7 +12,7 @@ server.use(express.json());
 mongoose.set('strictQuery', true);
 
 server.use(cors({
-    origin: ["http://localhost:3000",],
+      origin: ["http://localhost:3000", "https://vikashalwarmern.vercel.app"],
     credentials: true
 }));
 
