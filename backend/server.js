@@ -23,12 +23,11 @@ server.use('/setting',settingRoutes)
 server.use('/admin', adminRoutes)
 
 server.use(express.static('./public'));
-
-mongoose.connect(process.env.DATABASE_URL).then(() => {
+mongoose.connect(process.env.DATABASE_URL, { dbName: process.env.DB_NAME }).then(() => {
     console.log("Database is connected...")
     server.listen(process.env.PORT, () => {
-        console.log(`Server is Start prot : ${process.env.PORT}`)
+        console.log("Server is running...")
     })
-}).catch((error) => {
-    console.log(error)
-})
+}).catch((err) => {
+    console.log(err)
+});
